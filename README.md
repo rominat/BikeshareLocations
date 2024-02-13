@@ -6,7 +6,10 @@ Capital Bikeshare is a bicycle sharing system with more than 500 stations and 4,
 
 ◾ Database connection and queries 
 
-## Project Focus:
+## Project Focus: 
+
+* Csv File "Year_2010_QTR_4_bikeTrip.csv" attributes: TRIP_DURATION,START_DATE,START_STATION,STOP_DATE,STOP_STATION,BIKE_ID,USER_TYPE
+  
 ◾ TERMINAL_NUMBER:  Unique numeric identifier for the terminal
 
 ◾ ADDRESS:  Street address for the terminal
